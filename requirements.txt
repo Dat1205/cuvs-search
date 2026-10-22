@@ -1,0 +1,4 @@
+sentence-transformers
+datasets
+rank_bm25
+numpy
